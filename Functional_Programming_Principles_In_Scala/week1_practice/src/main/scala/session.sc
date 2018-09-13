@@ -26,8 +26,16 @@ object session {
   gcd(14, 21)
   gcd(21, 14)
 
-  def factorial(n: Int): Int =
-    if (n == 0) 1 else n * factorial(n - 1)
+  def factorial(n: Int) = {
+    def fac(current: Int, result: Int): Int =
+      if (current > n) result
+      else fac(current + 1, result * current)
+    fac(1, 1)
+  }
 
   factorial(6)
+  factorial(10)
+  factorial(0)
+  factorial(1)
+  factorial(2)
 }

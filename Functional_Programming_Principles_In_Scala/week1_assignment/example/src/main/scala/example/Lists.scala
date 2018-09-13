@@ -61,7 +61,6 @@ object Lists {
       else {
         val temp_max = max0(xs.tail, first)
         if (temp_max > xs.head) temp_max else xs.head
-        
       }
     }
   }

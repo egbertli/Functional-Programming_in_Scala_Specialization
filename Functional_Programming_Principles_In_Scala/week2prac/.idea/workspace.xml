@@ -37,8 +37,8 @@
       <file leaf-file-name="higherOrderFunctions.sc" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/higherOrderFunctions.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+            <state relative-caret-position="642">
+              <caret line="98" column="28" lean-forward="true" selection-start-line="98" selection-start-column="28" selection-end-line="98" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -220,12 +220,12 @@
       <updated>1537272800650</updated>
       <workItem from="1537272802122" duration="19401000" />
       <workItem from="1537452260605" duration="2403000" />
-      <workItem from="1537704927920" duration="6226000" />
+      <workItem from="1537704927920" duration="6269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28030000" />
+    <option name="totallyTimeSpent" value="28073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-108" y="-1057" width="1686" height="1027" extended-state="0" />
@@ -287,8 +287,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/higherOrderFunctions.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+        <state relative-caret-position="642">
+          <caret line="98" column="28" lean-forward="true" selection-start-line="98" selection-start-column="28" selection-end-line="98" selection-end-column="28" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,3 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/83/8kcs_y2x7gs4nvrfh67j8pww0000gn/T/sbt-structure.xml; session clear-all
+all {file:/Users/yixuan-li/Documents/github/Functional-Programming_in_Scala_Specialization/Functional_Programming_Principles_In_Scala/objsets/}root/products {file:/Users/yixuan-li/Documents/github/Functional-Programming_in_Scala_Specialization/Functional_Programming_Principles_In_Scala/objsets/}root/test:products
+submit egbert1121@gmail.com 1IXhwKpTIu8i731b

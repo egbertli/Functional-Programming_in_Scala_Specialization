@@ -55,7 +55,7 @@ object SaveTweets {
     // You can also write results into a database of your choosing, but we'll do that later.
 
     // Set a checkpoint directory, and kick it all off
-    ssc.checkpoint("C:/checkpoint/")
+    ssc.checkpoint("/Users/yixuan-li/Documents/github/Functional-Programming_in_Scala_Specialization/Spark-Streaming/twitter-streaming/checkpoint/")
     ssc.start()
     ssc.awaitTermination()
   }

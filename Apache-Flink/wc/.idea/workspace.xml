@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8269d654-e5d6-4dd9-a108-cb2f4b7f3c91" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p1/WordCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/ApacheAccessLog/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/ApacheAccessLog/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/ApacheAccessLog/.idea/libraries/scala_sdk_2_11_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/ApacheAccessLog/.idea/libraries/scala_sdk_2_11_121.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/ApacheAccessLog/.idea/modules/apacheaccesslog-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/ApacheAccessLog/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/ApacheAccessLog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/ApacheAccessLog/src/main/scala/LogAlarmer.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/ApacheAccessLog/src/main/scala/LogParser.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/ApacheAccessLog/src/main/scala/LogSQL.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/ApacheAccessLog/src/main/scala/StructuredStreaming.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/ApacheAccessLog/src/main/scala/Utilities.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/integratingWithOtherSystems/.idea/hydra.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/integratingWithOtherSystems/.idea/libraries/scala_sdk_2_11_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/integratingWithOtherSystems/.idea/modules/integratingwithothersystems-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/integratingWithOtherSystems/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/integratingWithOtherSystems/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spark-Streaming/integratingWithOtherSystems/src/main/scala/KafkaExample.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/.idea/modules/twitter-streaming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/.idea/modules/twitter-streaming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/.checkpoint-1539705909000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/.checkpoint-1539705910000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/.checkpoint-1539705910000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/.checkpoint-1539705911000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/.checkpoint-1539705911000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/.checkpoint-1539705912000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/.checkpoint-1539705912000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/.checkpoint-1539705913000.bk.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/.checkpoint-1539705913000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/.checkpoint-1539705914000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/checkpoint-1539705909000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/checkpoint-1539705910000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/checkpoint-1539705910000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/checkpoint-1539705911000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/checkpoint-1539705911000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/checkpoint-1539705912000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/checkpoint-1539705912000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/checkpoint-1539705913000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/checkpoint-1539705913000.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/checkpoint-1539705914000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/receivedBlockMetadata/log-1539705589071-1539705649071" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/receivedBlockMetadata/log-1539705649089-1539705709089" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/receivedBlockMetadata/log-1539705709201-1539705769201" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/receivedBlockMetadata/log-1539705769401-1539705829401" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/receivedBlockMetadata/log-1539705830000-1539705890000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/checkpoint/receivedBlockMetadata/log-1539705890002-1539705950002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/default/twitter-streaming-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/default/twitter-streaming-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/default/twitter-streaming-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/default/twitter-streaming-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sbt_2.12/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sbt_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sbt_2.12/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sbt_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources_2.12/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources_2.12/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spark-Streaming/twitter-streaming/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="576428190">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="xml" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="XML" value="61" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/p1/WordCount.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#868#1039#0" expanded="true" />
+                <element signature="e#1038#1039#0" expanded="true" />
+                <element signature="e#1571#1572#0" expanded="true" />
+                <element signature="e#1639#1640#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/p1/WordCount.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1368" />
+    <option name="y" value="-1057" />
+    <option name="width" value="1831" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wc" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="p1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540651529340" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p1.WordCount" />
+      <module name="wc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Functional_Programming_Principles_In_Scala/funsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Functional_Programming_Principles_In_Scala/objsets" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Functional_Programming_Principles_In_Scala/recfun" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Functional_Programming_Principles_In_Scala/week1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Functional_Programming_Principles_In_Scala/week1_assignment/example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8269d654-e5d6-4dd9-a108-cb2f4b7f3c91" name="Default Changelist" comment="" />
+      <created>1540650674014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540650674014</updated>
+      <workItem from="1540650678980" duration="856000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="856000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1368" y="-1057" width="1831" height="1027" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986026" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" weight="0.32941177" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/package-info.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/p1/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#868#1039#0" expanded="true" />
+            <element signature="e#1038#1039#0" expanded="true" />
+            <element signature="e#1571#1572#0" expanded="true" />
+            <element signature="e#1639#1640#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

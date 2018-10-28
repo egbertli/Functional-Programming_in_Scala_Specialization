@@ -292,13 +292,13 @@
 [debug] == resolving dependencies default#twitter-streaming$sources;0.1->jline#jline;2.14.3 [scala-tool->master]
 [debug] 	resolved ivy file produced in cache
 [debug] :: downloading artifacts ::
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.12!scala-library.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.12!scala-compiler.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-parser-combinators_2.11;1.0.4!scala-parser-combinators_2.11.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.11.12!scala-reflect.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.11;1.0.5!scala-xml_2.11.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.14.3!jline.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.11.12!scala-library.jar(src)
-[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.11.12!scala-compiler.jar(src)
-[debug] :: resolution report :: resolve 36ms :: artifacts dl 2ms
+[debug] :: resolution report :: resolve 37ms :: artifacts dl 2ms
 [debug] 	report for default#twitter-streaming$sources;0.1 compile produced in /Users/yixuan-li/Documents/github/Functional-Programming_in_Scala_Specialization/Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-compile.xml
 [debug] 	report for default#twitter-streaming$sources;0.1 runtime produced in /Users/yixuan-li/Documents/github/Functional-Programming_in_Scala_Specialization/Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-runtime.xml
 [debug] 	report for default#twitter-streaming$sources;0.1 test produced in /Users/yixuan-li/Documents/github/Functional-Programming_in_Scala_Specialization/Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-test.xml
@@ -310,4 +310,4 @@
 [debug] 	report for default#twitter-streaming$sources;0.1 plugin produced in /Users/yixuan-li/Documents/github/Functional-Programming_in_Scala_Specialization/Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-plugin.xml
 [debug] 	report for default#twitter-streaming$sources;0.1 pom produced in /Users/yixuan-li/Documents/github/Functional-Programming_in_Scala_Specialization/Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-pom.xml
 [debug] 	report for default#twitter-streaming$sources;0.1 scala-tool produced in /Users/yixuan-li/Documents/github/Functional-Programming_in_Scala_Specialization/Spark-Streaming/twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-scala-tool.xml
-[debug] 	resolve done (36ms resolve - 2ms download)
+[debug] 	resolve done (37ms resolve - 2ms download)

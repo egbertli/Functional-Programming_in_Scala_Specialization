@@ -4,7 +4,7 @@
 		module="integratingwithothersystems-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20181017031021"
+		publication="20181109004523"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

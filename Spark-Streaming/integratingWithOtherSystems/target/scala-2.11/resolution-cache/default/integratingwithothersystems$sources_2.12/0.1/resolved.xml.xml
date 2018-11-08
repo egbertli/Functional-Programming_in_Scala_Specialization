@@ -4,7 +4,7 @@
 		module="integratingwithothersystems$sources_2.12"
 		revision="0.1"
 		status="integration"
-		publication="20181017031026"
+		publication="20181109004537"
 	/>
 	<configurations>
 		<conf name="default" visibility="public" description=""/>

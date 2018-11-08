@@ -4,7 +4,7 @@
 		module="integratingwithothersystems_2.11"
 		revision="0.1"
 		status="integration"
-		publication="20181017031026"
+		publication="20181109004529"
 	>
 		<description>
 		integratingWithOtherSystems
@@ -32,5 +32,8 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.12" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.12" conf="scala-tool->default,optional(default);compile->default(compile)"/>
+		<dependency org="com.datastax.spark" name="spark-cassandra-connector_2.11" rev="2.3.2" conf="compile->default(compile)"/>
+		<dependency org="com.datastax.spark" name="spark-cassandra-connector-embedded_2.11" rev="2.3.2" conf="test->default(compile)"/>
+		<dependency org="com.twitter" name="jsr166e" rev="1.1.0" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

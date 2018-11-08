@@ -1,110 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c56c3f7f-3ea9-42f2-af43-4284cd830da8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Apache-Flink/wc/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Apache-Flink/wc/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Apache-Flink/wc/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Apache-Flink/wc/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Apache-Flink/wc/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Apache-Flink/wc/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Apache-Flink/wc/src/main/java/p1/WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Apache-Flink/wc/wc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_library_2_11_12_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_11_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/scala_sdk_2_11_121.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/apacheaccesslog-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/LogAlarmer.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/LogParser.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/LogSQL.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/StructuredStreaming.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/scala/Utilities.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../integratingWithOtherSystems/.idea/hydra.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../integratingWithOtherSystems/.idea/libraries/scala_sdk_2_11_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../integratingWithOtherSystems/.idea/modules/integratingwithothersystems-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../integratingWithOtherSystems/.idea/scala_compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../integratingWithOtherSystems/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../integratingWithOtherSystems/src/main/scala/KafkaExample.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/.idea/modules/twitter-streaming.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/.idea/modules/twitter-streaming.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/.checkpoint-1539705909000.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/.checkpoint-1539705910000.bk.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/.checkpoint-1539705910000.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/.checkpoint-1539705911000.bk.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/.checkpoint-1539705911000.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/.checkpoint-1539705912000.bk.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/.checkpoint-1539705912000.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/.checkpoint-1539705913000.bk.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/.checkpoint-1539705913000.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/.checkpoint-1539705914000.crc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/checkpoint-1539705909000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/checkpoint-1539705910000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/checkpoint-1539705910000.bk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/checkpoint-1539705911000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/checkpoint-1539705911000.bk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/checkpoint-1539705912000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/checkpoint-1539705912000.bk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/checkpoint-1539705913000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/checkpoint-1539705913000.bk" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/checkpoint-1539705914000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/receivedBlockMetadata/log-1539705589071-1539705649071" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/receivedBlockMetadata/log-1539705649089-1539705709089" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/receivedBlockMetadata/log-1539705709201-1539705769201" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/receivedBlockMetadata/log-1539705769401-1539705829401" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/receivedBlockMetadata/log-1539705830000-1539705890000" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/checkpoint/receivedBlockMetadata/log-1539705890002-1539705950002" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/default/twitter-streaming-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/default/twitter-streaming-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/default/twitter-streaming-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/default/twitter-streaming-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-twitter-streaming-build-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sbt_2.12/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sbt_2.12/0.1/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sbt_2.12/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sbt_2.12/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources/0.1/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources_2.12/0.1/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources_2.12/0.1/resolved.xml.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources_2.12/0.1/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/default/twitter-streaming$sources_2.12/0.1/resolved.xml.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sbt_2.12-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-compile-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-runtime-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-scala-tool.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-test-internal.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-compile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-optional.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-provided.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-runtime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/scala-2.11/resolution-cache/reports/default-twitter-streaming$sources_2.12-test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/streams/$global/$global/dumpStructure/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/streams/$global/updateClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../twitter-streaming/target/streams/$global/updateSbtClassifiers/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/../twitter-streaming/target/streams/$global/updateSbtClassifiers/$global/streams/out" afterDir="false" />
-    </list>
+    <list default="true" id="c56c3f7f-3ea9-42f2-af43-4284cd830da8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -146,7 +43,7 @@
     <session id="-466355983">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.9" value="1" />
           <entry key="project.opened" value="3" />
@@ -219,8 +116,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/StructuredStreaming.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="93" column="16" lean-forward="true" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="16" />
+            <state relative-caret-position="603">
+              <caret line="83" column="44" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
               <folding>
                 <element signature="e#43#68#0" expanded="true" />
               </folding>
@@ -317,7 +214,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540713264599" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540713266457" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -435,18 +332,17 @@
       <updated>1539943299091</updated>
       <workItem from="1539943300376" duration="471000" />
       <workItem from="1540220989738" duration="22816000" />
-      <workItem from="1540389377106" duration="21619000" />
+      <workItem from="1540389377106" duration="21972000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44906000" />
+    <option name="totallyTimeSpent" value="45259000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1368" y="-1057" width="1831" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23420906" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23420906" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -455,7 +351,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -541,8 +437,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/StructuredStreaming.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="93" column="16" lean-forward="true" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="16" />
+        <state relative-caret-position="603">
+          <caret line="83" column="44" selection-start-line="83" selection-start-column="44" selection-end-line="83" selection-end-column="44" />
           <folding>
             <element signature="e#43#68#0" expanded="true" />
           </folding>

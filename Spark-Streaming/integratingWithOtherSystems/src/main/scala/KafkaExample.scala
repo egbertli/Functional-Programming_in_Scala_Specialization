@@ -1,4 +1,6 @@
-mport org.apache.spark.SparkConf
+// Kafka setup instructions for Windows: https://dzone.com/articles/running-apache-kafka-on-windows-os
+
+import org.apache.spark.SparkConf
 import org.apache.spark.streaming.{Seconds, StreamingContext}
 import org.apache.spark.storage.StorageLevel
 
@@ -24,7 +26,7 @@ object KafkaExample {
     val pattern = apacheLogPattern()
 
     // hostname:port for Kafka brokers, not Zookeeper
-    val kafkaParams = Map("metadata.broker.list" -> "localhost:9092")
+    val kafkaParams = Map("metadata.broker.list" -> "localhost:9092", "auto.offset.reset" -> "smallest")
     // List of topics you want to listen for from Kafka
     val topics = List("testLogs").toSet
     // Create our Kafka stream, which will contain (topic,message) pairs. We tack a
@@ -47,8 +49,9 @@ object KafkaExample {
     sortedResults.print()
 
     // Kick it off
-    ssc.checkpoint("/Users/yixuan-li/Documents/github/Functional-Programming_in_Scala_Specialization/Spark-Streaming/integratingWithOtherSystems/checkpoint/")
+    ssc.checkpoint("/Users/yixuan-li/Documents/github/Functional-Programming_in_Scala_Specialization/Spark-Streaming/integratingWithOtherSystems/checkpoint")
     ssc.start()
     ssc.awaitTermination()
   }
 }
+
